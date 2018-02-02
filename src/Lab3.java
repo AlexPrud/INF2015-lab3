@@ -17,6 +17,7 @@ public class Lab3 {
         System.out.println("hello");
         System.out.println("salut");
         System.out.println("blah");
+        System.out.println("allo Alex c'est Etienne");
     }
     
 }
